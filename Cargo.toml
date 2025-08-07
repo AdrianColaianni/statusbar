@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 chrono = "0.4.41"
+network-manager = "0.11.0"
 pulsectl-rs = "0.3.2"
 x11 = "2.21.0"
 x11rb = "0.13.1"
